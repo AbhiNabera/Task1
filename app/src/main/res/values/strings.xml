@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="spider_inductions_2016">Spider Inductions 2016</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="do_you_require_mentorship">Do you require mentorship ?</string>
+    <string name="algos">ALGOS</string>
+    <string name="app_dev">APP DEV</string>
+    <string name="tronix">TRONIX</string>
+    <string name="select_your_interests">Select your interests.</string>
+    <string name="web_dev">WEB DEV</string>
+</resources>
